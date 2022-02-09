@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(255, 255, 255);
+  }
+  div{
+    background-color: #555;
+    margin-bottom: 20px;
+  }
+  .titulo{
+    font-family: 'Arial';
+    font-size: 20px;
+    text-align: center;
+  }
+  .container{
+    background-color: #fff;
+    width: 600px;
+    height: 300px;
+    margin: auto;
+    padding: 20px;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: flex-end;
+  }
+  .texto{
+    background-color: #fff;
+    font-family: 'Arial';
+  }
+  .barra1{
+    background-color: rgb(3, 17, 77);
+    text-align: center;
+    height: 229.4px;
+    width: 15px;
+    flex: auto;
+    margin: 10px;
+  }
+  .barra2{
+    background-color: rgb(25, 3, 122);
+    text-align: center;
+    height: 168.6px;
+    width: 15px;
+    flex: auto;
+    margin: 10px;
+  }
+  .barra3{
+    background-color: rgb(27, 7, 207);
+    text-align: center;
+    height: 51.0px;
+    width: 15px;
+    flex: auto;
+    margin: 10px;
+  }
+  .barra4{
+    background-color: rgb(25, 146, 226);
+    text-align: center;
+    height: 42.3px;
+    width: 15px;
+    flex: auto;
+    margin: 10px;
+  }
+  .barra5{
+    background-color: rgb(24, 191, 241);
+    text-align: center;
+    height: 31.1px;
+    width: 15px;
+    flex: auto;
+    margin: 10px;
+  }
